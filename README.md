@@ -221,14 +221,9 @@ A public reference implementation of the same model family reports benchmark fig
 Credit-Card-PowerBI-Analytics/
 │
 ├── README.md
-├── Credit_card_report.pbix
-├── screenshots/
-│   ├── transaction_analysis.png
-│   └── customer_analysis.png
-├── documentation/
-│   └── Dashboard_Analysis_Benchmark_Report.pdf
-└── dax/
-    └── measures.md
+├── Credit_Card_Report.pbix
+
+
 ```
 
 GitHub cannot render a PBIX interactively, so screenshots are strongly recommended.
